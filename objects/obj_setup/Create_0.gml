@@ -1,0 +1,3 @@
+outline_init();
+randomize();
+

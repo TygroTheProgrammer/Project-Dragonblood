@@ -1,0 +1,53 @@
+Converting GML script: ${project_direction_facing}\scripts\example_block_get_image_index\example_block_get_image_index.gml
+Converted description /// @description  block_get_image_index(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_direction_facing}\scripts\example_block_redraw\example_block_redraw.gml
+Converted description /// @description  block_redraw(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_direction_facing}\scripts\example_block_erase\example_block_erase.gml
+Converted description /// @description  block_erase(x, y)/// @param x
+/// @param  y
+
+Converting GML script: ${project_direction_facing}\scripts\bl_init\bl_init.gml
+Converted description /// @description  bl_init()
+
+Converting GML script: ${project_direction_facing}\scripts\bl_rectangle_create\bl_rectangle_create.gml
+Converted description /// @description  bl_rectangle_create(blocks horizontally, blocks vertically, block width, block height, type)/// @param blocks horizontally
+/// @param  blocks vertically
+/// @param  block width
+/// @param  block height
+/// @param  type
+
+Converting GML script: ${project_direction_facing}\scripts\bl_rectangle_destroy\bl_rectangle_destroy.gml
+Converted description /// @description  bl_rectangle_destroy(BL rectangle instance)/// @param BL rectangle instance
+
+Converting GML script: ${project_direction_facing}\scripts\bl_rectangle_draw\bl_rectangle_draw.gml
+Converted description /// @description  bl_rectangle_draw(BL rectangle instance, DS grid, block x, block y, width, height, x, y, shading color)/// @param BL rectangle instance
+/// @param  DS grid
+/// @param  block x
+/// @param  block y
+/// @param  width
+/// @param  height
+/// @param  x
+/// @param  y
+/// @param  shading color
+
+Converting GML script: ${project_direction_facing}\scripts\bl_rectangle_update\bl_rectangle_update.gml
+Converted description /// @description  bl_rectangle_update(BL rectangle instance, DS grid, block x, block y, width, height)/// @param BL rectangle instance
+/// @param  DS grid
+/// @param  block x
+/// @param  block y
+/// @param  width
+/// @param  height
+
+Font ft_example has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_direction_facing}\fonts\ft_example\ft_example.gms1.png
+Added compatibility script 'draw/draw_enable_alphablend.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'draw/draw_set_blend_mode_ext.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'texture/texture_set_interpolation.gml'
+Added compatibility script '__global_object_depths.gml'

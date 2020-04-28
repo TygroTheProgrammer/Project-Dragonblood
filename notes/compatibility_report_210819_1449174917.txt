@@ -1,0 +1,96 @@
+Converting GML script: ${project_direction_facing}\scripts\draw_text_outlined\draw_text_outlined.gml
+Converted description /// @description draw_text_outlined(x, y, string, colour, outline_colour)/// @param x
+/// @param  y
+/// @param  string
+/// @param  colour
+/// @param  outline_colour
+
+Converting GML script: ${project_direction_facing}\scripts\draw_text_shadow\draw_text_shadow.gml
+Converted description /// @description draw_text_shadow(x, y, string, colour, shadow_colour, shadow_alpha)/// @param x
+/// @param  y
+/// @param  string
+/// @param  colour
+/// @param  shadow_colour
+/// @param  shadow_alpha
+
+Converting GML script: ${project_direction_facing}\scripts\draw_text_shadow_ext\draw_text_shadow_ext.gml
+Converted description /// @description draw_text_shadow_ext(x, y, string, colour, shadow_colour, shadow_direction_facingection, shadow_distance, shadow_alpha)/// @param x
+/// @param  y
+/// @param  string
+/// @param  colour
+/// @param  shadow_colour
+/// @param  shadow_direction_facingection
+/// @param  shadow_distance
+/// @param  shadow_alpha
+
+Converting GML script: ${project_direction_facing}\scripts\draw_sprite_shadow\draw_sprite_shadow.gml
+Converted description /// @description draw_sprite_shadow(direction_facingection, distance, scale, colour, alpha);/// @param direction_facingection
+/// @param  distance
+/// @param  scale
+/// @param  colour
+/// @param  alpha
+
+Converting GML script: ${project_direction_facing}\scripts\approach\approach.gml
+Converted description /// @description approach(current, target, amount)/// @param current
+/// @param  target
+/// @param  amount
+
+Converting GML script: ${project_direction_facing}\scripts\angle_approach\angle_approach.gml
+Converted description /// @description angle_approach(current, target, turn_speed)/// @param current
+/// @param  target
+/// @param  turn_speed
+
+Converting GML script: ${project_direction_facing}\scripts\smooth_approach\smooth_approach.gml
+Converted description /// @description smooth_approach(current, target, speed[0-1])/// @param current
+/// @param  target
+/// @param  speed[0-1]
+
+Converting GML script: ${project_direction_facing}\scripts\percent_chance\percent_chance.gml
+Converted description /// @description percent_chance(%)/// @param %
+
+Converting GML script: ${project_direction_facing}\scripts\round_chance\round_chance.gml
+Converted description /// @description round_chance(number)/// @param number
+
+Converting GML script: ${project_direction_facing}\scripts\set_chance\set_chance.gml
+Converted description /// @description set_chance(%, value_if_true, value_if_false)/// @param %
+/// @param  value_if_true
+/// @param  value_if_false
+
+Converting GML script: ${project_direction_facing}\scripts\multi_chance\multi_chance.gml
+Converted description /// @description multi_chance(value1, chance1, value2, chance2, ..., [default_value])/// @param value1
+/// @param  chance1
+/// @param  value2
+/// @param  chance2
+/// @param  ...
+/// @param  [default_value]
+
+Converting GML script: ${project_direction_facing}\scripts\instance_list_random\instance_list_random.gml
+Converted description /// @description instance_list_random(object)/// @param object
+
+Converting GML script: ${project_direction_facing}\scripts\instance_nearest_list\instance_nearest_list.gml
+Converted description /// @description instance_nearest_list(x, y, obj)/// @param x
+/// @param  y
+/// @param  obj
+
+Converting GML script: ${project_direction_facing}\scripts\mouse_over\mouse_over.gml
+Converted description /// @description mouse_over()
+
+Converting GML script: ${project_direction_facing}\scripts\stick_to\stick_to.gml
+Converted description /// @description stick_to(object, xoffset, yoffset)/// @param object
+/// @param  xoffset
+/// @param  yoffset
+
+Converting GML script: ${project_direction_facing}\scripts\stick_to_angle\stick_to_angle.gml
+Converted description /// @description stick_to_angle(object, xoffset, yoffset, angleoffset)/// @param object
+/// @param  xoffset
+/// @param  yoffset
+/// @param  angleoffset
+
+Converting GML script: ${project_direction_facing}\scripts\within\within.gml
+Converted description /// @description within(variable, value, within)/// @param variable
+/// @param  value
+/// @param  within
+
+Added compatibility script 'd3d/d3d_set_fog.gml'
+Added compatibility script 'd3d/__init_d3d.gml'
+Added compatibility script '__init_global.gml'
